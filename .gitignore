@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#data
+finance-charts.apple.csv
+Coffee20201120.csv
+monthly_csv.csv
